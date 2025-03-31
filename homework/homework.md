@@ -1,1 +1,1 @@
-- [Tarea 1](hw1)
+- [Tarea 1](./hm1.md)
