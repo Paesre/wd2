@@ -1,1 +1,1 @@
-- [Tarea 1](hw1.md)
+- [Tarea 1](hw1)
