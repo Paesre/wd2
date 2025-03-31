@@ -1,1 +1,3 @@
-- [Tarea 1](./hm1.md)
+## Homework
+
+- [Homework 1](./hm1.md)

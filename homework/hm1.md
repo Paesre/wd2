@@ -1,3 +1,5 @@
+## HW 1
+
 1. Crear un directorio llamado `coding` que debe de estar en `~/coding`.
 ```bash
 cd
@@ -14,12 +16,12 @@ cd coding
 code .
 ```
 
-4. Crear un archivo llamado README.md
+4. Crear un archivo llamado README.md.
 
-5. Investigar la sintaxis de [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links)
+5. Investigar la sintaxis de [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
 
 6. Escribir sobre:
-    - Tu Nombre
-    - A que te dedicas
-    - Hobbies
-    - Receta de tu comida favorita
+    - Tu Nombre.
+    - A que te dedicas.
+    - Hobbies.
+    - Receta de tu comida favorita.
