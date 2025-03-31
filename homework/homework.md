@@ -1,3 +1,3 @@
 ## Homework
 
-- [Homework 1](./hm1.md)
+- [Homework 1](./hw1.md)
