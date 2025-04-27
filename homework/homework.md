@@ -5,3 +5,4 @@
 - [Homework 3](./hw3.md)
 - [Homework 4](./hw4.md)
 - [Homework 5](./hw5.md)
+- [Homework 6](./hw6.md)
